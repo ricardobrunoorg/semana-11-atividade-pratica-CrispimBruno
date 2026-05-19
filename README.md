@@ -14,8 +14,9 @@ Imagine que a página principal (home-page) mostre um visão dos vários itens q
 
 ## Prints do trabalho
 
-![alt text](img/image.png)
-![alt text](img/image2.png)
+![alt text](public/img/image.png)
+------
+![alt text](public/img/image2.png)
 
 ## Dados em JSON
 Inclua aqui a estrutura de dados definida por você para o projeto com pelo menos dois exemplo de dados.
